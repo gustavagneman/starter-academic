@@ -26,7 +26,7 @@ subtitle = ""
      tag = "market_parochialism"
   
    [[content.filter_button]]
-     name = "Mapping state capacity"
+     name = "Mapping state capacity in Sub-Saharan Africa"
      tag = "state_cap"
   
    [[content.filter_button]]
@@ -69,7 +69,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-   text_color_light = true  
+  # text_color_light = true  
   
 [advanced]
  # Custom CSS. 
