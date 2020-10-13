@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Lund"
   date_start = "2021-01-01"
   date_end = ""
-  description = ""Teaching at the Political Science Faculty. Independent research and part of the PUSHPEACE project.""
-  """
+  description = """Teaching at the Political Science Faculty. Independent research and part of the PUSHPEACE project."""
 
 [[experience]]
   title = "PhD Student"
