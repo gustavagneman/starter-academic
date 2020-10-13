@@ -22,8 +22,8 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+     name = "Market integration and Parochial Honesty"
+     tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
