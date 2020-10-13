@@ -52,6 +52,10 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GAgneman
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
+  
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -59,10 +63,7 @@ social:
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "gustavagneman@gmail.com"
@@ -78,5 +79,7 @@ user_groups:
 ---
 
 Gustav Agneman is a Postdoctoral researcher at the PUSHPEACE project at Lund University. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 
