@@ -42,6 +42,6 @@ date_format = "Jan 2006"
   location = "Chicago"
   date_start = "2018-10-01"
   date_end = "2019-06-15"
-  description = """Course work and research in the Political Economics of Development."""
+  description = """Undertook coursework and conducted research."""
 
 +++
