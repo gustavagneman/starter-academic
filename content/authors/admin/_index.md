@@ -52,7 +52,7 @@ social:
   link: https://twitter.com/GAgneman
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: https://drive.google.com/file/d/13XuxYia8CyWGX9UQ30RRiJ2OL96NPLo4/view?usp=sharing
 - icon: envelope
   icon_pack: fas
   link: "mailto:gustavagneman@gmail.com"
