@@ -97,7 +97,7 @@ address = {city = "Lund", country = "Sweden"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "55.42269", longitude = "13.11393"}
+coordinates = {latitude = "55.70750", longitude = "13.19443"}
 
 # Directions for visitors to locate you.
 directions = "Eden Building"
