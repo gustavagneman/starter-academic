@@ -53,10 +53,10 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
-  
-# - icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  For a direct email link, use "mailto:gustavagneman@gmail.com".  # unsure how to add this
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  For a direct email link, use "mailto:gustavagneman@gmail.com".  
+# unsure how to add this
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
