@@ -21,16 +21,16 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
+  # [[content.filter_button]]
      name = "Market integration and Parochial Honesty"
-     tag = "*"
+     tag = "Field Experiment"
   
-   [[content.filter_button]]
+  # [[content.filter_button]]
      name = "Deep Learning"
      tag = "Deep Learning"
   
-   [[content.filter_button]]
-     name = "Other"
+  # [[content.filter_button]]
+     name = "How Economic Expectations Shape Preferences for National Independence"
      tag = "Demo"
 
 [design]
