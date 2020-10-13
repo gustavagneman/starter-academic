@@ -37,7 +37,7 @@ education:
   - course: BSc in European Studies
     institution: University of Gothenburg
     year: 2017
-     - course: BSc in Economics
+  - course: BSc in Economics
     institution: University of Gothenburg
     year: 2015
 
