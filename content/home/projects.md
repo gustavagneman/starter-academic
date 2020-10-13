@@ -23,19 +23,19 @@ subtitle = ""
   
    [[content.filter_button]]
      name = "Market integration and Parochial Honesty"
-     tag = "Field Experiment"
+     tag = "market_parochialism"
   
    [[content.filter_button]]
      name = "Mapping state capacity"
-     tag = "Spatial Data Science"
+     tag = "state_cap"
   
    [[content.filter_button]]
      name = "How economic expectations shape preferences for national independence"
-     tag = "Field Experiment"
+     tag = "economics_secession"
      
    [[content.filter_button]]
      name = "Food scarcity and cooperation"
-     tag = "Field Experiment"
+     tag = "scarcity_cooperation"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
