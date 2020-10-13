@@ -26,12 +26,16 @@ subtitle = ""
      tag = "Field Experiment"
   
    [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+     name = "Mapping state capacity"
+     tag = "Spatial Data Science"
   
    [[content.filter_button]]
-     name = "How Economic Expectations Shape Preferences for National Independence"
-     tag = "Demo"
+     name = "How economic expectations shape preferences for national independence"
+     tag = "Field Experiment"
+     
+   [[content.filter_button]]
+     name = "Food scarcity and cooperation"
+     tag = "Field Experiment"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
