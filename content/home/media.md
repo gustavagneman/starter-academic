@@ -20,11 +20,20 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Danish Radio"
-  organization_url = "Hvorfor vil grønlænderne løsrive sig fra Danmark?"
-  title = "Neural Networks and Deep Learning"
+  organization_url = ""
+  title = "Hvorfor vil grønlænderne løsrive sig fra Danmark?"
   url = "https://www.dr.dk/nyheder/indland/video-hvorfor-vil-groenlaenderne-loesrive-sig-fra-danmark"
   certificate_url = ""
   date_start = "2020-08-14"
+  date_end = ""
+  description = ""
+  
+  organization = "Weekendavisen"
+  organization_url = ""
+  title = "Løsrivelse anno 2037"
+  url = "https://www.weekendavisen.dk/2019-1/samfund/loesrivelse-anno-2037"
+  certificate_url = ""
+  date_start = "2019-01-03"
   date_end = ""
   description = ""
 
