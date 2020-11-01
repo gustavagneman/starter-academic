@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher in Peace and Conflict Research
+role: Postdoctoral Researcher Lund University
 
 # Organizations/Affiliations
 organizations:
@@ -47,6 +47,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/13XuxYia8CyWGX9UQ30RRiJ2OL96NPLo4/view?usp=sharing
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GAgneman
@@ -56,9 +59,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=gULc5DAAAAAJ&view_op=list_works&gmla=AJsN-F40xGSyJSEgwNVAHs8-PQi_KzISS5eTckjO5M_24klxnUKKLkcDdTpunHNcD1HbgKXtS9cFRWACibRUBVvYV2MIKesBmg 
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
   
 # unsure how to add this
 # - icon: google-scholar
