@@ -22,21 +22,13 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-     name = "Market integration and Parochial Honesty"
-     tag = "market_parochialism"
+     name = "Work in progress"
+     tag = "wp"
   
    [[content.filter_button]]
-     name = "Mapping state capacity in Sub-Saharan Africa"
-     tag = "state_cap"
+     name = "Under revision"
+     tag = "ur"
   
-   [[content.filter_button]]
-     name = "How economic expectations shape preferences for national independence"
-     tag = "economics_secession"
-     
-   [[content.filter_button]]
-     name = "Food scarcity and cooperation"
-     tag = "scarcity_cooperation"
-
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
