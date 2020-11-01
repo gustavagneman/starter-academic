@@ -80,7 +80,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral researcher at the PUSHPEACE project at Lund University. 
+Postdoctoral researcher in the PUSHPEACE project at Lund University. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
