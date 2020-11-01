@@ -50,12 +50,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GAgneman
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
   link: "mailto:gustavagneman@gmail.com"
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=gULc5DAAAAAJ&view_op=list_works&gmla=AJsN-F40xGSyJSEgwNVAHs8-PQi_KzISS5eTckjO5M_24klxnUKKLkcDdTpunHNcD1HbgKXtS9cFRWACibRUBVvYV2MIKesBmg 
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
   
 # unsure how to add this
 # - icon: google-scholar
