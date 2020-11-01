@@ -55,7 +55,7 @@ social:
   link: "mailto:gustavagneman@gmail.com"
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=gULc5DAAAAAJ&view_op=list_works&gmla=AJsN-F40xGSyJSEgwNVAHs8-PQi_KzISS5eTckjO5M_24klxnUKKLkcDdTpunHNcD1HbgKXtS9cFRWACibRUBVvYV2MIKesBmg 
+  link: "https://scholar.google.com/citations?hl=en&user=gULc5DAAAAAJ&view_op=list_works&gmla=AJsN-F40xGSyJSEgwNVAHs8-PQi_KzISS5eTckjO5M_24klxnUKKLkcDdTpunHNcD1HbgKXtS9cFRWACibRUBVvYV2MIKesBmg" 
   
 # unsure how to add this
 # - icon: google-scholar
