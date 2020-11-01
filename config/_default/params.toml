@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Research in the Political Economics of Development"
+description = "Research Political Economics of Development"
 
 ############################
 ## Site Features
@@ -89,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "gustavagneman@gmail.com"
-phone = "+45 91753111"
+phone = "+46 738442575"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -262,9 +262,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 1
   api_key = ""
-  zoom = 15
+  zoom = 16
 
 ############################
 ## Marketing
