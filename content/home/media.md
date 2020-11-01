@@ -38,6 +38,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
   
-[[item]] organization = "KNR" organization_url = "" title = "Vi giver mere end resten af verden" url = "https://knr.gl/da/nyheder/vi-giver-mere-end-resten-af-verden?fbclid=IwAR1V4mrokMyo7__PiXIUZHZxYEE8_aYm9E0HEjEQWtNYond90GUkb9xkz4k" certificate_url = "" date_start = "2018-12-24" date_end = "" description = ""
+[[item]] 
+organization = "KNR" 
+organization_url = "" 
+title = "Vi giver mere end resten af verden" 
+url = "https://knr.gl/da/nyheder/vi-giver-mere-end-resten-af-verden?fbclid=IwAR1V4mrokMyo7__PiXIUZHZxYEE8_aYm9E0HEjEQWtNYond90GUkb9xkz4k" 
+certificate_url = "" 
+date_start = "2018-12-24" 
+date_end = "" 
+description = ""
 
 +++
