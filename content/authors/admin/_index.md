@@ -21,7 +21,8 @@ organizations:
 bio: My research interests include political decision making, armed conflict and spatial econometrics
 
 interests:
-- Political Development Economics
+- Political Economics
+- Development Economics
 - Conflict Research
 - Field Experiments 
 - Spatial Data Science
