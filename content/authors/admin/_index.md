@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher Lund University
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -23,8 +23,8 @@ bio: My research interests include political decision making, armed conflict and
 interests:
 - Political Development Economics
 - Conflict Research
-- Spatial Data Science
 - Field Experiments 
+- Spatial Data Science
 
 education:
   courses:
