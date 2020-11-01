@@ -47,9 +47,6 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
-- icon: cv
-  icon_pack: ai
-  link: https://drive.google.com/file/d/13XuxYia8CyWGX9UQ30RRiJ2OL96NPLo4/view?usp=sharing
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GAgneman
@@ -83,8 +80,8 @@ user_groups:
 - Visitors
 ---
 
-Gustav Agneman is a Postdoctoral researcher at the PUSHPEACE project at Lund University. 
+I am a Postdoctoral researcher at the PUSHPEACE project at Lund University. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 
